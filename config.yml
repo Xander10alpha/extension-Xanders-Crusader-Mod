@@ -1,0 +1,23 @@
+config-sparse:
+  modules:
+    aiSwapper:
+      config:
+        menu:
+          contents:
+            suggested-value: {}
+        defaultLanguage:
+          contents:
+            suggested-value: null
+  plugins:
+    Vanilla-Interpretation-Castles:
+      config: {}
+    ApeX-AI-Behaviour-Applied:
+      config: {}
+    Kirito-Kun:
+      config: {}
+    Kommander-AI:
+      config: {}
+    Xanders-UCP-AI-Default:
+      config: {}
+meta:
+  version: 1.0.0
