@@ -9,5 +9,6 @@ dependencies:
   Xanders-UCP-AI-Default: ^1.0.0
   ApeX-AI-Behaviour-Applied: ^1.4.0
   Vanilla-Interpretation-Castles: ^1.0.2
+  Vanilla-Interpretation-Castles-Applied: ^1.0.2
 meta:
   version: 1.0.0
