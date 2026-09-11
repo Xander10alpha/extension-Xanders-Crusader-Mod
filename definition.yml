@@ -2,7 +2,7 @@ name: Xanders-Crusader-Mod
 display-name: Xanders-Plug-and-Play
 type: plugin
 author: Xander10alpha
-version: 1.0.0
+version: 1.0.1
 dependencies:
   Kommander-AI: ^1.0.0
   Kirito-Kun: ^1.0.0
@@ -12,3 +12,6 @@ dependencies:
   Vanilla-Interpretation-Castles-Applied: ^1.0.2
 meta:
   version: 1.0.0
+tags:
+- modpack
+- ai
