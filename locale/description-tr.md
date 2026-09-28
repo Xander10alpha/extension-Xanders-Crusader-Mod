@@ -1,5 +1,5 @@
 # Xanders-Crusader-Mod
 
-Bu paket, yapay zek? sava?lar? ve arkada?larla oyun i?in Xander'?n yapay zek?lar?n? ve kale eklentilerini bir araya getirir. Paketi [Xander10alpha](https://www.youtube.com/@Xander10alpha) YouTube kanal?nda g?rebilirsiniz.
+Bu paket, yapay zekâ savaşları ve arkadaşlarla oyun için Xander'ın yapay zekâlarını ve kale eklentilerini bir araya getirir. Paketi [Xander10alpha](https://www.youtube.com/@Xander10alpha) YouTube kanalında görebilirsiniz.
 
-Kendiniz oynamak istiyorsan?z **Miscellaneous > Activate Spectator mode** se?ene?ini kapat?n.
+Kendiniz oynamak istiyorsanız **Miscellaneous > Activate Spectator mode** seçeneğini kapatın.

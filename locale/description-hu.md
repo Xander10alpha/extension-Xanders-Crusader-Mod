@@ -1,5 +1,5 @@
 # Xanders-Crusader-Mod
 
-Ez a csomag Xander MI-it ?s v?rb?v?tm?nyeit fogja ?ssze MI elleni csat?khoz, egyed?l vagy bar?tokkal. A csomagot a [Xander10alpha](https://www.youtube.com/@Xander10alpha) YouTube-csatorn?n is megn?zheted.
+Ez a csomag Xander MI-it és várbővítményeit fogja össze MI elleni csatákhoz, egyedül vagy barátokkal. A csomagot a [Xander10alpha](https://www.youtube.com/@Xander10alpha) YouTube-csatornán is megnézheted.
 
-Ha magad is j?tszani szeretn?l, kapcsold ki a **Miscellaneous > Activate Spectator mode** be?ll?t?st.
+Ha magad is játszani szeretnél, kapcsold ki a **Miscellaneous > Activate Spectator mode** beállítást.
